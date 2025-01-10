@@ -3,9 +3,9 @@
 <h2>:computer: Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://gitlab.com/jobdmit/jobdmIT/-/tree/main/osticket-prereq)
-  - [osTicket: Post-Installation Configuration](https://gitlab.com/jobdmit/jobdmIT/-/tree/main/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://gitlab.com/jobdmit/jobdmIT/-/tree/main/ticket_lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/Jobdm/osticket-prereq)
+  - [osTicket: Post-Installation Configuration](https://github.com/Jobdm/osticket-postinstall)
+  - [osTicket: Ticket Lifecycle](https://github.com/Jobdm/osticket-lifecycle)
 
 <h2>🤳Connect with me:</h2>
 
