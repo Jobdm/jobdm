@@ -6,11 +6,14 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Jobdm/osticket-prereq)
   - [osTicket: Post-Installation Configuration](https://github.com/Jobdm/osticket-postinstall)
   - [osTicket: Ticket Lifecycle](https://github.com/Jobdm/osticket-lifecycle)
-<br/>
+
+<hr/>
+
 - <b>Active Directory with Powershell [using Kernal Virtual Machines (KVM)]</b>
   - [Virt-Manager Install & Virtual Bridge Connection](https://github.com/Jobdm/adpowershell-lmsetup)
   - [Virtual Machine Setup](https://github.com/Jobdm/adpowershell-vm)
-  - [Active Directory Lab](https://github.com/Jobdm/adpowershell-vm)
+  - [Active Directory Lab](https://github.com/Jobdm/adpowershell-lab)
+
 <h2>🤳Connect with me:</h2>
 
 
